@@ -1,4 +1,7 @@
 # project
 
-[internship_project](internship_project1.py) :<br>
+[internship_project-1](internship_project1.py) :<br>
 This project is a simple quiz game that asks users a series of questions. It also has a score system to evaluate users performance. Every question is having multiple choise questions.If wrong answer is entered correct answer is also displayed.
+
+[internship_project-2](internship_project2.py):<br>
+This project is a simple word counter which counts the number of words in a paragarph which is given as input by the user.
