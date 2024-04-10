@@ -5,3 +5,6 @@ This project is a simple quiz game that asks users a series of questions. It als
 
 [internship_project-2](internship_project2.py):<br>
 This project is a simple word counter which counts the number of words in a paragarph which is given as input by the user.
+
+[internship_project-3](internship_project3.py):<br>
+This project is a simple python project which calculates expences  and displays them.It also shows category wise expences made by the user.
