@@ -11,3 +11,6 @@ This project is a simple python project which calculates expences  and displays 
 
 [internship_project-4](internship_project4.py):<br>
 This project is a random password generator which genertes passwords based on the length of the password given by the user.It can also give n number of passwords based on the users input.
+
+[internship_project-5](internship_project5.py):<br>
+Hangman is a word-guessing game where players attempt to discover a hidden word by suggesting letters within a certain number of guesses.
